@@ -8,3 +8,4 @@ A collection of websites that have a bug bounty program with a reward.
 | https://www.surf.nl  | https://www.surf.nl/responsible-disclosure  |   |
 | https://www.hm.com  | https://www.hm.com/security.txt  |   |
 | https://ortto.com   | https://ortto.com/policies/ResponsibleDisclosure.pdf  |   |
+| https://www.devolksbank.nl | https://www.devolksbank.nl/.well-known/security.txt |  |
