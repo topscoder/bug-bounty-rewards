@@ -1,6 +1,8 @@
 # bug-bounty-rewards
 A collection of websites that have a bug bounty program with a reward.
 
+Some helpful dorks: https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
+
 
 | URL  | Policy  | Notes  |
 |---|---|---|
@@ -21,3 +23,4 @@ A collection of websites that have a bug bounty program with a reward.
 | https://www.bitdegree.org | https://www.bitdegree.org/.well-known/security.txt |  |
 | https://teamup.com | https://teamup.com/.well-known/security.txt |  |
 | https://www.burberry.com | https://www.burberry.com/.well-known/security.txt |  |
+| https://www.palantir.com | https://www.palantir.com/.well-known/security.txt |  |
