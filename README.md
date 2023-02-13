@@ -15,3 +15,4 @@ A collection of websites that have a bug bounty program with a reward.
 | https://psiphon.ca | https://psiphon.ca/.well-known/security.txt |  |
 | https://www.contentkingapp.com | https://www.contentkingapp.com/.well-known/security.txt |  |
 | https://www.spotify.com | https://www.spotify.com/bounty |   |
+| https://relayfi.com | https://relayfi.com/.well-known/security.txt  |   |
